@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.b0430225.css",
-    "main.js": "/React/static/js/main.b667ae92.js",
-    "static/media/mq_antarctica.jpeg": "/React/static/media/mq_antarctica.383264222c902c7fe374.jpeg",
-    "static/media/grandcanyon01.jpeg": "/React/static/media/grandcanyon01.ca98d1fa53194108f5fa.jpeg",
-    "static/media/resume.pdf": "/React/static/media/resume.76fac98b7641a111b0a3.pdf",
-    "static/media/background14.jpeg": "/React/static/media/background14.6aeb4d95c6a59455906a.jpeg",
-    "index.html": "/React/index.html",
-    "main.b0430225.css.map": "/React/static/css/main.b0430225.css.map",
-    "main.b667ae92.js.map": "/React/static/js/main.b667ae92.js.map"
+    "main.css": "/static/css/main.1788e1fd.css",
+    "main.js": "/static/js/main.cb7cc76d.js",
+    "static/media/mq_antarctica.jpeg": "/static/media/mq_antarctica.383264222c902c7fe374.jpeg",
+    "static/media/grandcanyon01.jpeg": "/static/media/grandcanyon01.ca98d1fa53194108f5fa.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.76fac98b7641a111b0a3.pdf",
+    "static/media/background14.jpeg": "/static/media/background14.6aeb4d95c6a59455906a.jpeg",
+    "index.html": "/index.html",
+    "main.1788e1fd.css.map": "/static/css/main.1788e1fd.css.map",
+    "main.cb7cc76d.js.map": "/static/js/main.cb7cc76d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0430225.css",
-    "static/js/main.b667ae92.js"
+    "static/css/main.1788e1fd.css",
+    "static/js/main.cb7cc76d.js"
   ]
 }
