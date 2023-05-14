@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1558b58b.css",
-    "main.js": "/static/js/main.1e22d98b.js",
+    "main.css": "/static/css/main.919b47f5.css",
+    "main.js": "/static/js/main.015a1a38.js",
     "static/media/mq_antarctica.jpeg": "/static/media/mq_antarctica.383264222c902c7fe374.jpeg",
     "static/media/grandcanyon01.jpeg": "/static/media/grandcanyon01.ca98d1fa53194108f5fa.jpeg",
     "static/media/resume.pdf": "/static/media/resume.b2699a62e1eb2d4f2942.pdf",
     "static/media/background14.jpeg": "/static/media/background14.6aeb4d95c6a59455906a.jpeg",
     "index.html": "/index.html",
-    "main.1558b58b.css.map": "/static/css/main.1558b58b.css.map",
-    "main.1e22d98b.js.map": "/static/js/main.1e22d98b.js.map"
+    "main.919b47f5.css.map": "/static/css/main.919b47f5.css.map",
+    "main.015a1a38.js.map": "/static/js/main.015a1a38.js.map"
   },
   "entrypoints": [
-    "static/css/main.1558b58b.css",
-    "static/js/main.1e22d98b.js"
+    "static/css/main.919b47f5.css",
+    "static/js/main.015a1a38.js"
   ]
 }
